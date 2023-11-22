@@ -1,3 +1,4 @@
 public void ddd(){
 system.println("hai")
+system.println(" fff hai")
 }
